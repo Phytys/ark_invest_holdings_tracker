@@ -1,0 +1,6 @@
+pandas
+plotly
+dash
+tradingview-ta
+yfinance
+pytrends
